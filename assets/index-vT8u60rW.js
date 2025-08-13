@@ -15005,7 +15005,7 @@ const fw = (e, t) =>
     Za(e) ? new dw(t) : new cw(t, { allowProjection: e !== D.Fragment }),
   hw = rw({ ...e1, ...Px, ...dx, ...kx }, fw),
   O = b0(hw),
-  Ad = '/assets/profile-BJl4HqXF.png',
+  Ad = 'assets/profile-BJl4HqXF.png',
   pw = {
     hidden: { opacity: 0 },
     visible: {
